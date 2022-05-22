@@ -6,7 +6,7 @@
 - 👯 I’m looking to work as a software developer
 - 🥅 2022 Goals: Make progress on my app
 - ⚡ Fun fact: I love to play the guitar 
-- 😻 Check out my projects - their all made from scratch!
+- 😻 Check out my projects - they're all made from scratch!
 
 ### Connect with me:
 
