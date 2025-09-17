@@ -2,7 +2,7 @@
 
 # 💫 About Me
 I'm a **Software Engineer (Backend & Cloud)** based in Israel.  
-Currently working at **Mobileye (Intel)**, where I started at 19 and have since moved from cloud automation validation into backend development.  
+Currently working at **Mobileye (Intel)**, where I started at 19 (2022) and have since moved from cloud automation validation into backend development.  
 
 ---
 
