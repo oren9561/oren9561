@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Oren Zvulonov</h1>
 
 # 💫 About Me
-I'm a **Software Engineer (Backend & Cloud)** based in Israel.  
+I'm a **Software Engineer (Cloud Backend)** based in Israel.  
 Currently working at **Mobileye (Intel)**, where I started at 19 (2022) and have since moved from cloud automation validation into backend development.  
 
 ---
